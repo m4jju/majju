@@ -1,3 +1,3 @@
-# majju
+# m4jju
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
